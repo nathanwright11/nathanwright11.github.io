@@ -13,7 +13,7 @@
       <pubDate>Tue, 17 Aug 2021 10:58:08 -0400</pubDate>
       
       <guid>https://nathanwright11.github.io/post/project-4/</guid>
-      <description>Used Python and SQL to pull data obtained from stats.nba.com Compared Warriors performance for each season at Oracle Arena against the rest of the league Found Warriors performed better than league average in every season, regardless if wins were lower than average     Dataset came from Kaggle submitted by user Wyatt Walsh and stats.nba.com.</description>
+      <description>Used Python and SQL to pull data obtained from stats.nba.com Compared Warriors performance for each season at Oracle Arena against the rest of the league Warriors performed better than league average in FG% and 3PT% almost every season, regardless if wins were lower than average     Dataset came from Kaggle submitted by user Wyatt Walsh and stats.nba.com.</description>
     </item>
     
     <item>
