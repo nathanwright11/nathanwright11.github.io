@@ -6,16 +6,7 @@
     <description>Recent content in Welcome: on Nathan Wright</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 17 Aug 2021 10:58:08 -0400</lastBuildDate><atom:link href="https://nathanwright11.github.io/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Warriors Dominance at Oracle</title>
-      <link>https://nathanwright11.github.io/post/project-4/</link>
-      <pubDate>Tue, 17 Aug 2021 10:58:08 -0400</pubDate>
-      
-      <guid>https://nathanwright11.github.io/post/project-4/</guid>
-      <description>Used Python and SQL to pull data obtained from stats.nba.com Compared Warriors performance for each season at Oracle Arena against the rest of the league Warriors performed better than league average in FG% and 3PT% almost every season, regardless if wins were lower than average     Dataset came from Kaggle submitted by user Wyatt Walsh and stats.nba.com.</description>
-    </item>
-    
+    <lastBuildDate>Sun, 01 Aug 2021 10:58:08 -0400</lastBuildDate><atom:link href="https://nathanwright11.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Raman-Spectroscopy Diabetes Detection</title>
       <link>https://nathanwright11.github.io/post/project-1/</link>
